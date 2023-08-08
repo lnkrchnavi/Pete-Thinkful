@@ -78,3 +78,11 @@ ul{
 list{
   text-align:center;
 }
+
+ol{
+  text-align:left;
+  display:inline-block;
+}
+list{
+  text-align:center;
+}
