@@ -80,6 +80,7 @@ list{
   text-align:center;
 }
 
-ol{
+.centered{
+  text-align:center;
   display:inline-block;
 }
